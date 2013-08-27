@@ -1,0 +1,9 @@
+# Quicktask v1.2
+
+CURRENT TASKS:
+  - My first task.
+    @ Added [Tue 2013-08-27]
+    * [$: 20130827161735-my-first-task]
+COMPLETED TASKS:
+
+# vim:ft=quicktask
